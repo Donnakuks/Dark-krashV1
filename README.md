@@ -1,4 +1,4 @@
-<h1 align="center"> This base was created by King Sam </h1>
+<h1 align="center"> ᎢᕼᏆᔑ ᗷᗩᔑᗴ ᗯᗩᔑ ᑕᖇᗴᗩᎢᗴᗞ ᗷᎩ ᗩᑎᎢᏆᔑᝪᑕᏆᗩᏞᕼᑌᗰᏆᗞᏆᎢᎩ </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
