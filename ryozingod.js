@@ -481,7 +481,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : Thezetsuboxygen || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : Ｍ-ＣＲＯＳＳ🌹 || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -529,20 +529,20 @@ const moment = require('moment-timezone');
 const time = moment().tz("Asia/Jakarta").format("HH:mm:ss");
 let ucapanWaktu
 if (time >= "19:00:00" && time < "23:59:00") {
-ucapanWaktu = "🌃 Selamat Malam"
+ucapanWaktu = "🌃 HOW FAR🕷️"
 } else if (time >= "15:00:00" && time < "19:00:00") {
-ucapanWaktu = "🌄 Selamat Sore"
+ucapanWaktu = "🌄 HOW FAR🕷️"
 } else if (time >= "11:00:00" && time < "15:00:00") {
-ucapanWaktu = "🏞️ Selamat Siang"
+ucapanWaktu = "🏞️ HOW FAR🕷️"
 } else if (time >= "06:00:00" && time < "11:00:00") {
-ucapanWaktu = "🏙️ Selamat Pagi"
+ucapanWaktu = "🏙️ HOW FAR🕷️"
 } else {
-ucapanWaktu = "🌆 Selamat Subuh"
+ucapanWaktu = "🌆 HOW FAR🕷️"
 }
-const wib = moment(Date.now()).tz("Asia/Jakarta").locale("id").format("HH:mm:ss z")
-const wita = moment(Date.now()).tz("Asia/Makassar").locale("id").format("HH:mm:ss z")
-const wit = moment(Date.now()).tz("Asia/Jayapura").locale("id").format("HH:mm:ss z")
-const salam = moment(Date.now()).tz("Asia/Jakarta").locale("id").format("a")
+const wib = moment(Date.now()).tz("Africa/Lagos").locale("id").format("HH:mm:ss z")
+const wita = moment(Date.now()).tz("Africa/Lagos").locale("id").format("HH:mm:ss z")
+const wit = moment(Date.now()).tz("Africa/Lagos").locale("id").format("HH:mm:ss z")
+const salam = moment(Date.now()).tz("Africa/Lagos").locale("id").format("a")
 let d = new Date
 let gmt = new Date(0).getTime() - new Date("1 Januari 2024").getTime()
 let weton = ["Pahing", "Pon","Wage","Kliwon","Legi"][Math.floor(((d * 1) + gmt) / 84600000) % 5]
@@ -670,7 +670,7 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 𝕾𝖕𝖎𝖉𝖊𝖗 𝖂𝖊𝖇🕸️ - Multi Device",
+    "name": "🌠 Ｍ-ＣＲＯＳＳ🕷️🕸️ - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
@@ -771,7 +771,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: ` 🕷️𝕾𝖕𝖎𝖉𝖊𝖗 𝖂𝖊𝖇🕸️ ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` 🕷️Ｍ-ＣＲＯＳＳ🕸️ ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -995,7 +995,7 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `© ZxV - Client Version 4.0.0`,
+title: `© Demon M-cross 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
@@ -1911,8 +1911,8 @@ let mydick = jinjing[randomIndex]
 let penisbengkok = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗩𝗜𝗟 𝗦𝗣𝗜𝗗𝗘𝗥 ⌟  ❐
-┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
+┃✢ Creator : Ｍ-ＣＲＯＳＳ🕷️
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1921,13 +1921,13 @@ let penisbengkok = `
 ┃✢ Prefix : Single
 ┗❐
 
-𝐂𝐥𝐚𝐬𝐬𝐢𝐜 © Copyright`
+𝗗𝗘𝗠𝗢𝗡🕷️𝗠-𝗖𝗥𝗢𝗦𝗦`
 
 let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝘿𝙀𝙑𝙄𝙇 𝙎𝙋𝙄𝘿𝙀𝙍⌟  ❐
-┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
+┃✢ Creator : 𝗠-𝗖𝗥𝗢𝗦𝗦
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1936,13 +1936,13 @@ let njing = `
 ┃✢ Prefix : Single 
 ┗❐
 
-❐${prefix}spesialmenu
+❐${prefix}specialmenu 
 ❐${prefix}allmenu
 ❐${prefix}changemenu button/non
 ❐${prefix}owner
 ❐${prefix}botstatus
 
-𝐂𝐥𝐚𝐬𝐬𝐢𝐜 © Copyright`
+𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
 
 //Button Menu
 let freesex = {
@@ -1973,7 +1973,7 @@ interactiveMessage: {
 "buttons": [
 {
 "name": "single_select",
-"buttonParamsJson": `{ "title": "⿻🕸️𝕾𝖕𝖎𝖉𝖊𝖗🕷️⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
+"buttonParamsJson": `{ "title": "⿻🕸️𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
 },
 {
 "name": "cta_url",
@@ -2015,8 +2015,8 @@ let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
-┏❐  ⌜ 𝗗𝗘𝗩𝗜𝗟 𝗦𝗣𝗜𝗗𝗘𝗥⌟  ❐
-┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
+┃✢ Creator : Ｍ-ＣＲＯＳＳ
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -2481,7 +2481,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝕾𝖕𝖎𝖉𝖊𝖗🕸️𝖂𝖊𝖇🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
