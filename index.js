@@ -85,7 +85,7 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒\n𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕲𝖗𝖔𝖚𝖕 : https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`, {
+say(`Create By Ｍ-ＣＲＯＳＳ🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2347049602299`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
