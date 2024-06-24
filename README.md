@@ -1,14 +1,14 @@
-<h1 align="center"> ᎢᕼᏆᔑ ᗷᗩᔑᗴ ᗯᗩᔑ ᑕᖇᗴᗩᎢᗴᗞ ᗷᎩ ᗩᑎᎢᏆᔑᝪᑕᏆᗩᏞᕼᑌᗰᏆᗞᏆᎢᎩ </h1>
+<h1 align="center"> Created By King M-cross </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/7fba1ad2920b3f745b885.jpg" width="360" height="360"/>
+<img src="https://telegra.ph/file/ffdf8c03757ecbf76f9f9.jpg" width="360" height="360"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/Samue-l1"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/M-cross1"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Samue-l1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
+<a href="https://github.com/M-cross1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
 <a href="https://github.com/Samue-l1/Dagger-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social"></a>
 <a href="https://github.com/Samue-l1/Dagger-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
 <a href="https://github.com/Samue-l1/Dagger-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
@@ -73,5 +73,19 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## Contact Me
   
-* [Telegram](@k_i_n_g_s_a_m)
-* [Whatsapp Direct Message](https://api.whatsapp.com/send?phone=+254104301695)
+* [Telegram](KING M-CROSS)
+* [Whatsapp Direct Message](https://Wa.me/2349042566473?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅)
+—————————————————————
+┈╭━━━━━━━━━━━╮┈ ┈┃╭━━━╮┊╭━━━╮┃┈ ╭┫┃┈▇┈┃┊┃┈▇┈┃┣╮ ┃┃╰━━━╯┊╰━━━╯┃┃ ╰┫╭━╮╰━━━╯╭━╮┣╯ ┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈ ┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈ ┈╰━━━━━━━━━━━╯┈
+*`Y'ALL NIGGA`*
+.……..… /´¯/)………....(\¯\.............
+……….../….//……….. …\\….\. ........
+………../….//………… ….\\….\. ......
+…../´¯/…./´¯\………../¯ \….\¯`\.....
+.././.../…./…./.|_……_|.\….\….\…\.\
+(.(….(….(…./.)..)..(..(.\….)….)….).)
+.\…………….\/../…..\....\/…………../
+..\…………….. /……..\…………….../
+…\…………... (...…….)……………..
+—————————————————————
+      *`KING M-CROSS`*
