@@ -677,7 +677,7 @@ remoteJid: ""
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://call.whatsapp.com/video/hMwVijMQtUb0qBJL3lf0rv",
+    "joinLink": "https://api.whatsapp.com/send?phone=+2347049602299",
     "startTime": "1713724680"
   }
 }
@@ -867,7 +867,7 @@ message: {
 "jpegThumbnail": fakejpg,
 },
 "title": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"description": `𝕾𝖕𝖎𝖉𝖊𝖗 🕸️ 𝖂𝖊𝖇 🕷️`,
+"description": `Ｍ-ＣＲＯＳＳ🌹`,
 "currencyCode": "IDR",
 "priceAmount1000": "1000000000000000000",
 "retailerId": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
@@ -999,8 +999,8 @@ title: `© Demon M-cross 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
-sourceUrl: `https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`,
-mediaUrl: `https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`
+sourceUrl: `https://api.whatsapp.com/send?phone=+2347049602299`,
+mediaUrl: `https://api.whatsapp.com/send?phone=+2347049602299`
 }
 },
 text: teks
@@ -1736,7 +1736,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `✳️᜴࿆͆᷍𝗭̺𝗘𝗧᷹̚𝗦𝗨̵̱𝗕̺𝗢𝗫͆𝗬𝗚̠̚𝗘𝗡̿╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
+    "caption": `✳️᜴࿆͆᷍Ｍ-ＣＲＯＳＳ🌹╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -1795,7 +1795,7 @@ async function pirgam(target, kuwoted) {
       header: {
         title: "🩸⃟༑⌁⃰𝐙͈𝐞͢𝐫𝐨 𝐄𝐱ͯ͢𝐞𝐜𝐮͢𝐭𝐢𝐨𝐧 𝐕ͮ𝐚͢𝐮𝐥𝐭ཀ͜͡🦠",
         hasMediaAttachment: true,
-        ...(await prepareWAMessageMedia({ image: { url: "https://telegra.ph/file/e8c1aee03b13f008ff65d.jpg" } }, { upload: ryozingod.waUploadToServer }))
+        ...(await prepareWAMessageMedia({ image: { url: "https://telegra.ph/file/7a6cec822e09877a63a22.jpg" } }, { upload: ryozingod.waUploadToServer }))
       },
       body: {
         text: ""
@@ -1954,7 +1954,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Zero Execution Vault',
+"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
 "serverMessageId": 1
 },
 },
@@ -1967,7 +1967,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ~ Ｍ-ＣＲＯＳＳ🌹 ~   ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -1977,7 +1977,7 @@ interactiveMessage: {
 },
 {
 "name": "cta_url",
-"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://whatsapp.com/channel/0029VadBczKI1rcayqzQ2n0e\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadBczKI1rcayqzQ2n0e\"}"
+"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2347049602299\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadBczKI1rcayqzQ2n0e\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2448,7 +2448,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Zero Execution Vault',
+"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
 "serverMessageId": 1
 },
 },
@@ -2461,13 +2461,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ Ｍ-ＣＲＯＳＳ🌹 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝕾𝖕𝖎𝖉𝖊𝖗🕸️𝖂𝖊𝖇🕷️⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻🕷️𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2499,15 +2499,15 @@ ryozingod.relayMessage(m.chat, msg, {})
 }
 break
 //=================================================//
-case "spesialmenu": {
+case "specialmenu": {
 let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ ZxV - Bot ⌟  ❐
-┃✢ Creator : thezetsuboxygen
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
+┃✢ Creator : Ｍ-ＣＲＯＳＳ
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2563,7 +2563,7 @@ let itsmenu = `
 ┃
 ┗❐
 
-𝐂𝐥𝐚𝐬𝐬𝐢𝐜 © Copyright`
+𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
 
 let msg = {
 viewOnceMessage: {
@@ -2587,13 +2587,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝕾𝖕𝖎𝖉𝖊𝖗🕸️𝖂𝖊𝖇🕷️⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2666,11 +2666,10 @@ joreply(jsonData)
 break
 //=================================================//
 case 'sc': case 'script': {
-joreply(`🌤𝐈 𝐊𝐍𝐎𝐖 𝐘𝐎𝐔 𝐑𝐄𝐀𝐋𝐋𝐘 𝐍𝐄𝐄𝐃 𝐓𝐇𝐈𝐒 𝐒𝐂𝐑𝐈𝐏𝐓.
-
+joreply(`🌤I KNOW YOU REALLY NEED THIS SCRIPT BOSS🕸️🕷️.
+          *SO DM MY BOSS IF YOU'RE REALLY READY TO PURCHASE THE SCRIPT*
 ❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347049602299
-
-
+𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦
 `)
 }
 break
