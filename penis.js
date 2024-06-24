@@ -7,7 +7,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Zero Execution Vault',
+"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
 "serverMessageId": 1
 },
 },
@@ -20,13 +20,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ Ｍ-ＣＲＯＳＳ🌹 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢𝐱𝐕⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢𝐱𝐕⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -50,7 +50,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'By Zero Execution Vault',
+"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
 "serverMessageId": 1
 },
 },
@@ -63,13 +63,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Zero Execution Vault ⌟  ⿻"
+"text": "⿻  ⌜ As You Click that Name Tag be Gay bro😂💔🕸️ ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢𝐱𝐕⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻𝐙͢𝐱𝐕⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
