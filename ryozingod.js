@@ -2607,7 +2607,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝕾𝖕𝖎𝖉𝖊𝖗🕸️𝖂𝖊𝖇🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2639,8 +2639,8 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜𝗗𝗘𝗩𝗜𝗟 𝗦𝗣𝗜𝗗𝗘𝗥⌟  ❐
-┃✢ Creator : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+┏❐  ⌜𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
+┃✢ Creator : Ｍ-ＣＲＯＳＳ
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2668,15 +2668,15 @@ break
 case 'sc': case 'script': {
 joreply(`🌤𝐈 𝐊𝐍𝐎𝐖 𝐘𝐎𝐔 𝐑𝐄𝐀𝐋𝐋𝐘 𝐍𝐄𝐄𝐃 𝐓𝐇𝐈𝐒 𝐒𝐂𝐑𝐈𝐏𝐓.
 
-❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+254104301695
-❗𝐆𝐑𝐎𝐔𝐏 : https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk
+❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347049602299
+
 
 `)
 }
 break
 //=================================================//
 case 'owner': case 'botowner':
-let namaown = `𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝙸𝚂 𝙺𝙸𝙽𝙶 𝚂𝙰𝙼`
+let namaown = `𝗠-𝗖𝗥𝗢𝗦𝗦`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
