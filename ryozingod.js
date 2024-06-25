@@ -1991,7 +1991,7 @@ let kontollurus = {
 image: mengkece,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '🕷️𝕾𝖕𝖎𝖉𝖊𝖗 𝖂𝖊𝖇🕸️',
+title: '🕷️𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦🕸️',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -3000,7 +3000,7 @@ ryozingod.sendMessage(m.chat, { text: `_ryo itu ganteng banget, aku jdi suka ama
 break
 //=================================================//
 case 'terkentod' : {
-ryozingod.sendMessage(m.chat, { text: `Hoekkkkkkk🤮🤮🤮. najis ada gay, mati aja lu kontol🤢` }, { quoted: m })
+ryozingod.sendMessage(m.chat, { text: `GAY SPOTTED🤢🤮` }, { quoted: m })
 }
 break
 //=================================================//
@@ -11306,7 +11306,7 @@ let memo = "5024"
 let cpu = "130"
 let disk = "5024"
 let email = username + "zxv@sweetrabit.ml"
-akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg" 
+akunlo = "https://telegra.ph/file/ffdf8c03757ecbf76f9f9.jpg" 
 if (!u) return
 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {}
 let password = username+'001'
@@ -11561,7 +11561,7 @@ let ctf = `❗Hai @${m.sender.split('@')[0]} , Owner Baru Saja Memberikan Anda A
 👤 Username: ${user.username}
 🔐 Password: ${password}
 🔗 Url: ${domain}`
-ryozingod.sendMessage(u, { image: { url: 'https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg' }, caption: ctf }, { quoted: m })
+ryozingod.sendMessage(u, { image: { url: 'https://telegra.ph/file/7a6cec822e09877a63a22.jpg' }, caption: ctf }, { quoted: m })
 let data2 = await f2.json()
 let startup_cmd = data2.attributes.startup
 let f3 = await fetch(domain + "/api/application/servers", {
