@@ -28,10 +28,10 @@ global.ownMain = '2347049602299'
 global.NamaOwner = 'Ｍ-ＣＲＯＳＳ' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕4' //ganti aj klo mau
+global.namabot = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
 global.author = 'Ｍ-ＣＲＯＳＳ🌹' //ganti aj klo mau
-global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/BtMW59TPpqeEuAOfPn3UHg' //gausah diganti
+global.packname = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
+global.wa = 'https://Wa.me/2347049602299?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅' //gausah diganti
 
 //===========================//
 
@@ -151,7 +151,7 @@ premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑�
 seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳𝚎𝚖𝚘𝚗 𝚂𝚙𝚒𝚍𝚎𝚛 king mcross🗿🚬',
+succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 Ｍ-ＣＲＯＳＳ🗿🚬',
 bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
 }
 
