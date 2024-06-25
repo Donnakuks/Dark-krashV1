@@ -90,7 +90,7 @@ say(`Create By Ｍ-ＣＲＯＳＳ🌹\n WHATSAPP GC : https://api.whatsapp.com/
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 25476858686\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
+    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2347049602299\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
@@ -235,14 +235,14 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒`, {
+    say(`Create By 𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`254104301695@s.whatsapp.net`, { text: `❗?𝗚𝘂𝗲𝘀𝘀 𝘄𝗵𝗼 𝗵𝗮𝘀 𝗹𝗼𝘀𝘁 𝗵𝗶𝘀/𝗵𝗲𝗿 𝗠𝗲𝗿𝗰𝘆 💀 𝗟𝗲𝘁𝘀 𝗸𝗶𝗹𝗹 𝘁𝗵𝗲 𝘃𝗶𝗯𝗲𝘀,𝗡𝗼 𝗠𝗲𝗿𝗰𝘆 𝗙𝗼𝗿 𝗧𝗵𝗲 𝗪𝗲𝗮𝗸 👻 `})
+ryoroyko.sendMessage(`2347049602299@s.whatsapp.net`, { text: `⚡𝐆𝐔𝚵𝐒𝐒 𝐖𝚮𝚯 𝐉𝐔𝐒𝚻 𝐖𝚯𝐊𝚵 𝚻𝚮𝚵 𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦 𝐔𝚸🕷️🕸️ `})
             }
 
         } catch (err) {
