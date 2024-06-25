@@ -31,7 +31,7 @@ global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
 global.author = 'Ｍ-ＣＲＯＳＳ🌹' //ganti aj klo mau
 global.packname = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
-global.wa = 'https://Wa.me/2347049602299?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅' //gausah diganti
+global.yt = '' //gausah diganti
 
 //===========================//
 
