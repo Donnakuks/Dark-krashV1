@@ -93,7 +93,7 @@ say(`Create By Ｍ-ＣＲＯＳＳ🌹\n WHATSAPP GC : https://api.whatsapp.com/
     const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2347049602299\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
-   console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
+   console.log(color(`[ # ] enter that code into WhatsApp Nigga: ${code}`, `${randomcolor}`));
 }
 
     // Status 
