@@ -439,9 +439,9 @@ const setting = db.data.settings[botNumber]
 console.error(err)
 }
 //=================================================//
-const nulll = fs.readFileSync(`https://telegra.ph/file/7d316e1bd25e4b0def51c.jpg,https://telegra.ph/file/f32a87294fd8c217242ba.jpg`)
-const nulll2 = fs.readFileSync(`https://telegra.ph/file/f32a87294fd8c217242ba.jpg,https://telegra.ph/file/7fb2b22b9f1ed29135ede.jpg`)
-const mengkece = fs.readFileSync(`https://telegra.ph/file/7d316e1bd25e4b0def51c.jpg`)
+const nulll = fs.readFileSync(`./image/nulll.jpg`)
+const nulll2 = fs.readFileSync(`./image/nulll2.jpg`)
+const mengkece = fs.readFileSync(`./image/mengkece.jpg`)
 const latx = fs.readFileSync(`./image/latx.png`)
 const fakedoc = fs.readFileSync(`./src/bruhhh.apk`)
 const fakejpg = fs.readFileSync(`./src/bruhhh.jpg`)
@@ -526,7 +526,7 @@ return crypto.randomBytes(size).toString('hex').slice(0, size)
 //=================================================//
 //Ini Waktu | Waktu adalah emas,maka dari itu sentuh lah rumput.dan jangan nolep dikamar terus,usahakan tu kontol jangan dikocok terus.Lutut ama sikut lu kopong nanti
 const moment = require('moment-timezone');
-const time = moment().tz("Asia/Jakarta").format("HH:mm:ss");
+const time = moment().tz("Africa/Lagos").format("HH:mm:ss");
 let ucapanWaktu
 if (time >= "19:00:00" && time < "23:59:00") {
 ucapanWaktu = "🌃 HOW FAR🕷️"
