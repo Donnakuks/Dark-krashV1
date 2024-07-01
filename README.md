@@ -1,4 +1,4 @@
-<h1 align="center"> Created ʙʏ ʜᴜᴅꜱᴏɴ˚☻ </h1>
+<h1 align="center"> ʙʏ ʜᴜᴅꜱᴏɴ˚☻ </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/6d794ab502d826755f9d2.jpg" width="360" height="360"/>
