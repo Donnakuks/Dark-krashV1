@@ -1,11 +1,11 @@
-<h1 align="center"> Created By King M-cross </h1>
+<h1 align="center"> Created By ʜᴜᴅꜱᴏɴ˚☻ </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/ffdf8c03757ecbf76f9f9.jpg" width="360" height="360"/>
+<img src="https://telegra.ph/file/6d794ab502d826755f9d2.jpg" width="360" height="360"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/M-cross1"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Hudson2006"><img title="Author" src="https://img.shields.io/badge/Dagger-Bot?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/M-cross1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
