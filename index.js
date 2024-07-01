@@ -85,7 +85,7 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By Ｍ-ＣＲＯＳＳ🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2347049602299`, {
+say(`Create By ʜᴜᴅꜱᴏɴ˚☻🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+237698798355`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
@@ -235,7 +235,7 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By 𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦`, {
+    say(`Create By ʜᴜᴅꜱᴏɴ˚☻`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
