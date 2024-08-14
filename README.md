@@ -20,7 +20,7 @@
 ## Install Several Packages And Run Bots
 
 ```csharp
-> git clone https://github.com/Samue-l1/Dagger-Bot
+> git clone https://github.com/Donnakuks/Dark-krashV1
 > apt-get update -y
 > apt-get upgrade -y
 > apt-get install -y git
@@ -31,7 +31,7 @@
 
 ## 🖥 Go to panel and upload this Sc.
 
- 🔗 panel link https://bothosting.net.com
+ 🔗 panel link https://bot-hosting.net/panel/manageserver/122298
 
  📝 After that, extract or move it to a directory (container).
 
