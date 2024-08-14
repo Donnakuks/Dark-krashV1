@@ -23,14 +23,14 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['237698798355']
-global.ownMain = '237698798355'
-global.NamaOwner = 'ʜᴜᴅꜱᴏɴ˚☻' //gausah diganti 
-global.sessionName = 'spidersession'
+global.owner = ['254737308001']
+global.ownMain = '254737308001'
+global.NamaOwner = 'ダーク🀄' //gausah diganti 
+global.sessionName = 'darksession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'ʜᴜᴅꜱᴏɴ˚☻' //ganti aj klo mau
-global.author = 'ʜᴜᴅꜱᴏɴ˚☻' //ganti aj klo mau
-global.packname = 'ʜᴜᴅꜱᴏɴ˚☻' //ganti aj klo mau
+global.namabot = 'DARK-KRASHV1🕷🀄☠' //ganti aj klo mau
+global.author = 'ダーク' //ganti aj klo mau
+global.packname = '🕷🕷' //ganti aj klo mau
 global.yt = '' //gausah diganti
 
 //===========================//
@@ -46,9 +46,9 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  
 //===========================//
 
-global.country = `237`
+global.country = `254`
 global.system = {
-gmail: `samuelcircute@gmail.com`,
+gmail: `davvy247@gmail.com`,
 }
 
 //===========================//
@@ -58,7 +58,7 @@ global.decor = {
 	menub: '┊•',
 	menub2: '┊',
 	menuf: '┗––––––––––✦',
-	hiasan: '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷',
+	hiasan: 'ダーク🕷🕷',
 
 	menut: '––––––『',
 menuh: '』––––––',
@@ -144,14 +144,14 @@ else return emot[results[0][0]]
 
    //Respon
 global.mess = { // bagian ini gausah diganti 
-ingroup: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚘𝚗 𝚐𝚛𝚘𝚞𝚙𝚜💢',
-admin: `❗𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 😝`,
-owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`ʜᴜᴅꜱᴏɴ˚☻\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
-premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🐦',
-seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
-usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
+ingroup: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚘𝚗 𝚐𝚛𝚘𝚞𝚙𝚜 idiot',
+admin: `❗𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜,mother fucker🔪`,
+owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 my owner,BAKA`,
+premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🀄',
+seller: 'wa.me/254737308001',
+usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🕸',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 ʜᴜᴅꜱᴏɴ˚☻🚬',
+succes: '🌆𝙳𝚘ne by `DARK-KRASHV1`🚬 no sleep for the wicked💀🕸🔪🌻',
 bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
 }
 
